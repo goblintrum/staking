@@ -10,7 +10,7 @@ import "../styles/globals.css";
 
 
 // This is the chainId your dApp will work on.
-const activeChainId = ChainId.Arbitrum;
+const activeChainId = ChainId.BinanceSmartChainMainnet;
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
